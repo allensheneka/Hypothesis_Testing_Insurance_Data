@@ -1,4 +1,4 @@
-# Hypothesis_Testing_Insurance_Data
+# Hypothesis Testing Insurance Data
  
 
 ## Introduction 
